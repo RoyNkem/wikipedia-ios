@@ -20,7 +20,7 @@ After running `scripts/setup`, you should be able to open `Wikipedia.xcodeproj` 
 ### Required Dependencies
 If you'd rather install the development prerequisites yourself without our script:
 
-* [**Xcode**](https://itunes.apple.com/us/app/xcode/id497799835) - The easiest way to get Xcode is from the [App Store](https://itunes.apple.com/us/app/xcode/id497799835?mt=12), but you can also download it from [developer.apple.com](https://developer.apple.com/) if you have an Apple ID registered with an Apple Developer account.
+* [**Xcode**](https://itunes.apple.com/us/app/xcode/id497799835) - The easiest way to get Xcode is from the [App Store](https://itunes.apple.com/us/app/xcode/id497799835?mt=12), but you can also download it from [developer.apple.com](https://developer.apple.com/xcode/) if you have an Apple ID registered with an Apple Developer account.
 * [**SwiftLint**](https://github.com/realm/SwiftLint) - We use this for linting Swift code.
 * [**ClangFormat**](https://clang.llvm.org/docs/ClangFormat.html) - We use this for linting Objective-C code.
 
